@@ -28,3 +28,4 @@ Git & GitHub
 GitHub Pages (Deployment)
 🌍 Live Demo
 https://github.com/Aryan029-cs/Gitboost-AI
+Live Demo: Currently unpublished. Full functionality can be reviewed via source code.
